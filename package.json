@@ -1,5 +1,7 @@
 {
   "name": "dut-asu-front-end",
+
+  "description": "The test version of the ASU",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
